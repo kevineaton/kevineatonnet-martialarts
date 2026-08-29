@@ -1,7 +1,7 @@
 baseURL: https://martialarts.kevineaton.net
 
 languageCode: en-us
-title: "TODO: Kevin Eaton - Martial Arts"
+title: "Kevin Eaton - Master, Founder, Coach, Referee - Martial Arts"
 
 languages:
   en:
@@ -24,4 +24,4 @@ disableKinds:
   - term
 
 params:
-  description: "TODO: Kevin Eaton's martial arts background - focus areas, competitions, awards, and promotions."
+  description: " Kevin Eaton's martial arts background - focus areas, competitions, awards, and promotions."
