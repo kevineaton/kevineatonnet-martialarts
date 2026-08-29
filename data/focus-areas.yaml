@@ -1,12 +1,12 @@
 # Disciplines you train/teach, with a short description each.
 - name: "Taekwondo"
-  description: "TODO: Short description - focus, style lineage, what you emphasize."
+  description: "Traditional Kukkiwon Taekwondo taught by a Korean Grandmaster. Ran classes, started staves program, and developed curriculum."
 
 - name: "Tangsoodo"
-  description: "TODO: Short description"
+  description: "Traditional Korean martial arts developed prior to Taekwondo. Trained under a traditional Korean Master."
 
-- name: "Staves"
-  description: "TODO: Short description"
+- name: "Shotokan Karate"
+  description: "Traditional Japanese martial arts pre-dating Taekwondo and Tangsoodo. Trained under traditional Japanese and American masters."
 
-- name: "Swords"
-  description: "TODO: Short description"
+- name: "Weapons"
+  description: "Focused on Staff and Sword martial arts, combining elements of both Korean and Japanese martial arts for freestyle and traditional competitions."

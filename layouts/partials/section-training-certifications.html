@@ -1,0 +1,15 @@
+<section id="training-certifications" class="section">
+  <p class="eyebrow">02 &mdash; Training &amp; Certifications</p>
+  <h2>Training &amp; Certifications</h2>
+  <ul class="entry-list">
+    {{ range index .Site.Data "training-certifications" }}
+    <li class="entry">
+      <div class="entry-date">{{ .year }}</div>
+      <div class="entry-body">
+        <div class="entry-title">{{ .name }}</div>
+        <div class="entry-subtitle">{{ .organization }}{{ with .category }} &mdash; {{ . }}{{ end }}</div>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</section>
