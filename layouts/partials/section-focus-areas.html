@@ -1,0 +1,12 @@
+<section id="focus-areas" class="section">
+  <p class="eyebrow">01 &mdash; Focus Areas</p>
+  <h2>Focus Areas</h2>
+  <ul class="focus-list">
+    {{ range index .Site.Data "focus-areas" }}
+    <li class="focus-item">
+      <div class="focus-name">{{ .name }}</div>
+      {{ with .description }}<p class="focus-description">{{ . }}</p>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</section>

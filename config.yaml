@@ -1,0 +1,27 @@
+baseURL: https://martialarts.kevineaton.net
+
+languageCode: en-us
+title: "TODO: Kevin Eaton - Martial Arts"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+
+enableEmoji: true
+
+disableKinds:
+  - taxonomy
+  - term
+
+params:
+  description: "TODO: Kevin Eaton's martial arts background - focus areas, competitions, awards, and promotions."

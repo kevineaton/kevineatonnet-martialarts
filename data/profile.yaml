@@ -1,0 +1,11 @@
+# Top-of-page identity and bio.
+# photo: drop your image at static/images/profile.jpg, then set this to "images/profile.jpg"
+photo: ""
+name: "Kevin Eaton, PhD, 4th Dan Taekwondo"
+tagline: "4th Degree Black Belt, Master Instructor (Sabumnim)"
+bio: >
+  Master Kevin Eaton is a 4th Degree Kukkiwon certified black belt in Taekwondo, with over a decade of training and instruction experience.
+emails: [kevin@jungshinacademy.com]
+links:
+  - name: "Jung Shin Academy"
+    url: "https://jungshinacademy.com"

@@ -1,0 +1,20 @@
+<section id="competitions" class="section">
+  <p class="eyebrow">02 &mdash; Competitions &amp; Awards</p>
+  <h2>Competitions &amp; Awards</h2>
+  <ul class="entry-list">
+    {{ range .Site.Data.competitions }}
+    {{ $comp := . }}
+    <li class="entry">
+      <div class="entry-date">{{ .year }}</div>
+      <div class="entry-body">
+        <div class="entry-title-row">
+          <span class="entry-title">{{ .event }}</span>
+          {{ with .placement }}<span class="placement-badge">{{ . }}</span>{{ end }}
+        </div>
+        {{ with .category }}<div class="entry-subtitle">{{ . }}</div>{{ end }}
+        {{ with .image }}<img class="competition-image" src="{{ . | relURL }}" alt="{{ $comp.event }}">{{ end }}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</section>

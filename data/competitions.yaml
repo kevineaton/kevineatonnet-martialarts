@@ -1,0 +1,19 @@
+# Reverse-chronological list of competition results.
+# image is optional (e.g. a medal/trophy photo) - leave blank to omit.
+- event: "TODO: e.g. Rhode Island Regional Championship"
+  category: "TODO: e.g. Poomsae (Forms)"
+  placement: "TODO: e.g. 2nd Place"
+  year: "TODO: e.g. 2019"
+  image: ""
+
+- event: "TODO: e.g. State Championship"
+  category: "TODO: e.g. Sparring"
+  placement: "TODO: e.g. 2nd Place"
+  year: "TODO: e.g. 2013"
+  image: ""
+
+- event: "TODO: e.g. State Championship"
+  category: "TODO"
+  placement: "TODO: e.g. 2nd/3rd Place"
+  year: "TODO: e.g. 2012"
+  image: ""
