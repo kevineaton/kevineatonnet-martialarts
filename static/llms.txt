@@ -1,0 +1,19 @@
+# Kevin Eaton - Martial Arts
+
+> Kevin Eaton is a 4th Degree Black Belt Master Instructor (Sabumnim) in Taekwondo, Kukkiwon certified, founder of Jung Shin Academy. Also trains/teaches Tangsoodo, Shotokan Karate, and weapons (staff and sword).
+
+This site covers his martial arts background: focus areas/disciplines, training and certifications, competition results and awards, and belt rank promotions.
+
+## More about Kevin Eaton
+
+- [Hub / all sites](https://kevineaton.net): Links to all of Kevin's professional sites.
+- [Technology](https://tech.kevineaton.net): Software architecture, engineering leadership, and entrepreneurship.
+- [Military](https://military.kevineaton.net): US Army Reserve service as a Chaplain (Lieutenant Colonel).
+- [Academia](https://academia.kevineaton.net): University teaching experience and academic publications.
+
+## Profiles
+
+- [Jung Shin Academy](https://jungshinacademy.com): Kevin's martial arts school.
+- [LinkedIn](https://www.linkedin.com/in/kevinheaton)
+- [GitHub](https://github.com/kevineaton)
+- [Mastodon](https://mastodon.social/@kevineaton)
